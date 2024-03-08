@@ -1,0 +1,40 @@
+/*
+Blue for background colour = "#457b9d";
+Black for text colour = "#1d3557";
+White for background = #f1faee;
+Light Blue as font colour = "#a8dadc";
+*/
+
+
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+nav li a{
+  text-decoration: none;
+  margin: right;
+}
+
+body{
+  background-color: #457b9d;
+  color: #1d3557;
+}
+
+footer{
+  background-color: blue;
+  color: white;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
